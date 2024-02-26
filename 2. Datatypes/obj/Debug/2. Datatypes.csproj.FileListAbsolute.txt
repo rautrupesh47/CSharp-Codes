@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\Rupesh C#\2. Datatypes\obj\Debug\2. Datatypes.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Rupesh C#\2. Datatypes\obj\Debug\2. Datatypes.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Rupesh C#\2. Datatypes\bin\Debug\_2.Datatypes.exe.config
+C:\Users\ADMIN\source\repos\Rupesh C#\2. Datatypes\bin\Debug\_2.Datatypes.exe
+C:\Users\ADMIN\source\repos\Rupesh C#\2. Datatypes\bin\Debug\_2.Datatypes.pdb
+C:\Users\ADMIN\source\repos\Rupesh C#\2. Datatypes\obj\Debug\_2.Datatypes.exe
+C:\Users\ADMIN\source\repos\Rupesh C#\2. Datatypes\obj\Debug\_2.Datatypes.pdb
